@@ -1,0 +1,82 @@
+{
+  "conversion": {
+    "bandwidth": {
+      "cn": "\u4e2d\u5fc3\u9891\u7387\u2194\u5e26\u5bbd\u6362\u7b97",
+      "en": "Center Frequency \u2194 Bandwidth"
+    },
+    "power": {
+      "cn": "\u5149\u529f\u7387\u6362\u7b97",
+      "en": "Optical Power Converter"
+    }
+  },
+  "laser": {
+    "gaussian": {
+      "cn": "\u9ad8\u65af\u5149\u675f\u4f20\u64ad",
+      "en": "Gaussian Beam Propagation"
+    },
+    "lens": {
+      "cn": "\u900f\u955c\u805a\u7126\u5149\u6591",
+      "en": "Lens Focus Spot"
+    },
+    "beamQuality": {
+      "cn": "M\u00b2 / BPP \u5149\u675f\u8d28\u91cf",
+      "en": "M\u00b2 / BPP Beam Quality"
+    },
+    "powerDensity": {
+      "cn": "\u529f\u7387/\u80fd\u91cf\u5bc6\u5ea6",
+      "en": "Power / Energy Density"
+    }
+  },
+  "grating": {
+    "separation": {
+      "cn": "\u5149\u6805\u8854\u5c04\u7a7a\u95f4\u5206\u79bb",
+      "en": "Grating Separation"
+    },
+    "angle": {
+      "cn": "\u5149\u6805\u8854\u5c04\u89d2",
+      "en": "Grating Angle"
+    },
+    "etalon": {
+      "cn": "F-P \u6807\u51c6\u5177",
+      "en": "Fabry-Perot Etalon"
+    }
+  },
+  "detector": {
+    "responsivity": {
+      "cn": "\u63a2\u6d4b\u5668\u54cd\u5e94\u5ea6/\u63a2\u6d4b\u7387",
+      "en": "Responsivity / Detectivity"
+    },
+    "noise": {
+      "cn": "\u63a2\u6d4b\u5668\u566a\u58f0 / SNR",
+      "en": "Noise / SNR Analysis"
+    }
+  },
+  "fiber": {
+    "delay": {
+      "cn": "\u4f20\u8f93\u5ef6\u8fdf",
+      "en": "Fiber Delay"
+    },
+    "attenuation": {
+      "cn": "\u5149\u7ea4\u8870\u51cf",
+      "en": "Fiber Attenuation"
+    },
+    "coupling": {
+      "cn": "\u5149\u7ea4\u8026\u5408\u635f\u8017",
+      "en": "Coupling Loss"
+    },
+    "dispersion": {
+      "cn": "\u5149\u7ea4\u8272\u6563",
+      "en": "Fiber Dispersion"
+    }
+  },
+  "ofc": {
+    "calculator": {
+      "cn": "\u68b3\u9f7f\u9891\u7387\u8ba1\u7b97",
+      "en": "OFC Calculator"
+    },
+    "beatFrequency": {
+      "cn": "\u5149\u9891\u68b3\u62cd\u9891",
+      "en": "OFC Beat Frequency"
+    }
+  }
+}
